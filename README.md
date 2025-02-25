@@ -1,8 +1,7 @@
 # CS465
 
 Why did the backend use a NoSQL MongoDB database?
-For frontend development I used Express HTML, JavaScript, and SPA. Starting off the full stack project, there was html files for all data, for example travel.html. Travel.html generated the data for the travel button/header of that portion of the website. I modified this by changing it to MVC to generate the data onto this part of the website, this included Model, View, and Controller. In these files there were .js files, which are JavaScript files. This makes the full stack application more organized, seperated, and better for testing and building a more advanced program. The SPA uses Angular and was built using APIs to gather data from the backend and update data on the frontend. The files in the SPA consisted of .ts, .css, and .html files to generate data to the frontend. The backend used a NoSQL MongoDB database a
-
+For frontend development I used Express HTML, JavaScript, and SPA. Starting off the full stack project, there was html files for all data, for example travel.html. Travel.html generated the data for the travel button/header of that portion of the website. I modified this by changing it to MVC to generate the data onto this part of the website, this included Model, View, and Controller. In these files there were .js files, which are JavaScript files. This makes the full stack application more organized, seperated, and better for testing and building a more advanced program. The SPA uses Angular and was built using APIs to gather data from the backend and update data on the frontend. The files in the SPA consisted of .ts, .css, and .html files to generate data to the frontend. The backend used a NoSQL MongoDB database because it is more efficient for storing JSON documents, which makes it easier to view and query. NoSQL MongoDB is also the better option for this full stack application as it can handle unstructured data, flexible, and
 
 
 
