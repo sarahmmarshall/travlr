@@ -1,8 +1,7 @@
 # CS465
 
-Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
 Why did the backend use a NoSQL MongoDB database?
----The backend used a NoSQL MongoDB database as ?
+For frontend development I used Express HTML, JavaScript, and SPA. Starting off the full stack project, there was html files for all data, for example travel.html. Travel.html generated the data for the travel button/header of that portion of the website. I modified this by changing it to MVC to generate the data onto this part of the website, this included Model, View, and Controller. In these files there were .js files, which are JavaScript files. This makes the full stack application more organized, seperated, and better for testing and building a more advanced program. The SPA uses Angular and was built using APIs to gather data from the backend and update data on the frontend. The files in the SPA consisted of .ts, .css, and .html files to generate data to the frontend. The backend used a NoSQL MongoDB database a
 
 
 
@@ -18,5 +17,3 @@ When testing of API endpoints I used HTTP request methods, such as GET, POST, an
 
 
 This course has helped me in reaching my professional goals by giving me more hands-on experiance with building a website. I really enjoyed learning how to do this and seeing it finished and running at the end of the class. I have learned the MEAN stack and how it can be used to create a website. Another skill I have learned in this class is debugging. This class helped me improve my debugging skills within a code. Although each assignment for developing the website had a step by step guide, chapter 7 had some issues and I had to figure out how to fix them. This was definitely a challenge but it improved my debugging skills which I can carry into my career in computer science. 
-
-
