@@ -5,7 +5,10 @@ For frontend development I used Express HTML, JavaScript, and SPA. Starting off 
 
 
 
-Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components. 
+Provide instances in the full stack process when you refactored code to improve functionality and efficiencies
+- In module 5: RESTful API, I refactored code to pull data from the database instead of the JSON file, this was done by wiring up the view to the new API endpoints to pull data from the database. The file with the refractoring was in the app_server/controllers/travel.js. In module 6: SPA, I refactored trip rendering logic into an Angular Component by
+
+
 
 JSON is different from Javascript as it a text-based format, in this project it is used to send data from the code to the website. The text-based format is easy for humans to read and understand its functionality. Javascript is a programming language that can have methods and implement logic, whereas JSON cannot. JSON ties together the frontend and backend development pieces by having a common data format that can easily take the data from the backend, and display it on the frontend. 
 ---An instance in the full stack process when I refactored code to improve functionality and efficiencies ?
